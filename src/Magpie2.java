@@ -58,7 +58,7 @@ public class Magpie2 {
 		} else if (statement.indexOf("no u") >= 0
 				|| statement.indexOf("no you") >= 0) {
 			response = "no u";
-			}
+			
 		} else {
 			response = getRandomResponse();
 		}
