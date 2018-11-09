@@ -1,0 +1,1 @@
+If the substring of indexOf does not occur in the string, then it returns a value of -1.
